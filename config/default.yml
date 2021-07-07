@@ -1,0 +1,8 @@
+db:
+  type: 'mysql'
+  port: 3306
+  database: 'chat_app'
+
+jwt:
+  secret: 'thisispworetfilasds'
+  expiresIn: 3600
